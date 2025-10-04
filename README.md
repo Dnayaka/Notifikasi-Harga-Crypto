@@ -1,20 +1,13 @@
 
----
-
-````markdown
 # Crypto Price Notifier Bot
 
 Bot Telegram untuk memantau harga cryptocurrency secara real-time dan memberikan notifikasi cepat.  
 Saat ini mendukung: Bitcoin (BTC) dalam USD, tapi bisa dikembangkan untuk crypto lain.
 
----
-
 ## **Fitur**
 - `/start` → Memulai bot dan menampilkan info dasar.  
 - `/price` → Mengecek harga crypto saat ini.  
 - Mudah dikembangkan untuk multiple crypto dan notifikasi otomatis.  
-
----
 
 ## **Instalasi & Setup**
 1. Clone repo:
@@ -66,13 +59,5 @@ Di Telegram, kirim:
 
 ## **Lisensi**
 
-MIT License
+Apache2 License
 
-```
-
----
-
-Kalau mau, aku bisa langsung bikinin versi **README untuk auto-notifikasi** juga, biar bot otomatis kirim harga setiap interval tertentu atau saat harga naik/turun sesuai threshold.  
-
-Mau aku buatkan versi itu juga?
-```
